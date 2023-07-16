@@ -8,5 +8,5 @@ The frontend of the website is taken from bootstrap.com while the whole backend 
 
 ## Requirements
 
-python 3
-django 
+* python 3
+* django 
